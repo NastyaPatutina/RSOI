@@ -1,0 +1,2 @@
+class RealEstateType < ApplicationRecord
+end
